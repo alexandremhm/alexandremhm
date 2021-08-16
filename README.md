@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matheus Alexandre</h1>
-<h3 align="center">A web development student from Brazil</h3>
+<h3 align="center">A web development student from Brazil</h3><br><br>
 
 
 - 👨‍💻 All of my projects are available at [https://alexandremhm.github.io/portfolio-react/](https://alexandremhm.github.io/portfolio-react/)
