@@ -2,11 +2,11 @@
 <h3 align="center">A web development student from Brazil</h3><br>
 
 
-<h4 align="left"> - 👨‍💻 All of my projects are available at [https://alexandremhm.github.io/portfolio-react/](https://alexandremhm.github.io/portfolio-react/)</h4>
+- 👨‍💻 All of my projects are available at [https://alexandremhm.github.io/portfolio-react/](https://alexandremhm.github.io/portfolio-react/)
 
-<h4 align="left"> - 📫 How to reach me **alexandremhm@gmail.com**</h4>
+- 📫 How to reach me **alexandremhm@gmail.com**
 
-<h4 align="left"> - 📄 Know about my experiences [https://www.linkedin.com/in/alexandremhm/](https://www.linkedin.com/in/alexandremhm/)</h4><br>
+- 📄 Know about my experiences [https://www.linkedin.com/in/alexandremhm/](https://www.linkedin.com/in/alexandremhm/) <br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
